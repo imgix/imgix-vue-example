@@ -1,19 +1,21 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="imgix-vue example app"/>
+    <HelloWorld msg="imgix-vue example app" />
+    <ImgixExamples />
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import HelloWorld from "./components/HelloWorld.vue";
+import ImgixExamples from "./components/ImgixExamples.vue";
 
 export default {
-  name: 'App',
+  name: "App",
   components: {
-    HelloWorld
-  }
-}
+    HelloWorld,
+    ImgixExamples,
+  },
+};
 </script>
 
 <style>
@@ -24,5 +26,9 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+}
+body {
+  padding: 0;
+  margin: 0;
 }
 </style>
