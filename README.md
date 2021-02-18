@@ -5,6 +5,8 @@
 
 An example web app demonstrating the [vue-imgix](https://github.com/imgix/vue-imgix) library and configurations.
 
+[![Edit imgix-vue-example-fork](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/imgix/imgix-vue-example/tree/main)
+
 ## Project setup
 ```
 yarn install
