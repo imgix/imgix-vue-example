@@ -50,4 +50,4 @@ See [Vue-ClI Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Creating images
 
-The `<ix-img>` and `<ix-picture>` tags make it easy to generate custom img and picture tags. The [`<HelloWorld> component`](/src/components/HelloWorld.vue) has some examples. To see more, please see the [vue-imgix](https://github.com/imgix/vue-imgix#usage) usage section
+The `<ix-img>` and `<ix-picture>` tags make it easy to generate custom img and picture tags. The [`<ImgixExamples> component`](/src/components/ImgixExamples.vue) has some examples. To see more, please see the [vue-imgix](https://github.com/imgix/vue-imgix#usage) usage section
